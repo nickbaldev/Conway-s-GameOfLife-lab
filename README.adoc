@@ -1,0 +1,33 @@
+== Lab 6
+This folder has the starting point code for the Game of Life,
+https://www.cs.swarthmore.edu/~kwebb/cs31/f23/Labs/lab06/[Lab 6].
+
+== Compiling
+* make: compiles stats and prog executables
+* make clean: cleans-up all compiler created files
+
+== Code
+* **`gol.c`: Your group should modify and submit `gol.c` in this folder.** 
+* Submit your https://forms.gle/U4Su7yMpB1vXtrFx7[Lab 6 Questionnaire]. 
+
+== Example Code
+Look at the https://www.cs.swarthmore.edu//~kwebb/cs31/f23/WeeklyLabs/wlab08.html[weekly lab page]
+for examples to get started with:
+
+* Reading command line arguments: `commandlineargs.c`
+* Reading from a file: `fileio.c`
+* Statically and dynamically allocating 2D arrays: `twoDarray.c`
+* Finally, using the graphical visualization library, ParaVisi: `visi_example.c`.
+
+== Test Files
+
+ * `test_oscillator.txt`:  this is a test file given to you with starting point. 
+ * `oscillator_output`: this is the expected output for the test file `test_oscillator.txt`
+ * `test_bigger.txt test_edges.txt test_corners.txt`:  empty test files
+ for you to fill in to test correctness in different ways.  Creating these
+ is a required part of the lab assignment.
+
+We strongly encourage you to create other test files for testing correctness. 
+Look at link:https://en.wikipedia.org/wiki/Conway's_Game_of_Life[Conway's Game of Life] 
+for some example patterns to try, or just try your own and see what happens.
+

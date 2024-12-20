@@ -1,0 +1,33 @@
+
+
+Lab6 : Game of Life!
+
+Repo: nbaldev1-mrosenb3
+
+>>  Initialization and output: test for an invalid file format failed - you may want to check fscanf
+for exactly the number of matched items you expect to return and
+return 1 if that is not correct. (no points deducted)
+[ pts off up to 2.5 ]: 0
+
+>>  Board management: 
+[ pts off up to 2 ]: 0
+
+>>  Simulation: 
+[ pts off up to 3.5 ]: 0
+
+>>  Timing & valgrind: Timing is good and no valgrind memory errors or leaks
+[ pts off up to 1.5 ]: 0
+-------------------------
+Correctness (9.5pts): 9.5
+
+>>  : Good comments!
+
+----------------------
+Program style (1pts): 1
+
+-------------------
+Total (10.5pts): 10.5
+>> General comments: Fantastic Work. Very Dilligent.
+
+
+
